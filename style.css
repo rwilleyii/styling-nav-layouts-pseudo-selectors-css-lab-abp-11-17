@@ -41,7 +41,7 @@ nav a:hover{
   color: #868e96;
 }
 
-#mainlink a:hover{
+header h3#mainlink a:hover{
   text-decoration: underline;
 }
 
